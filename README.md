@@ -74,6 +74,28 @@ Interactive Power BI dashboards analyzing global sales performance, profitabilit
 🔗 [View Project](https://github.com/Sayed-said93/global-store-sales-returns-analytics)
 
 
+### 3. SQL Data Analysis Projects
+
+A collection of SQL projects focused on customer segmentation, sales analysis, business insights, and data exploration.
+
+**Projects:**
+- Bike Store Sales Analysis
+- Music Data Analysis
+- Songs & Events Analysis
+
+**Key Skills:** SQL | Data Analysis | Joins | Aggregations | Window Functions | Business Analytics
+
+🔗 [Explore All SQL Projects](https://github.com/Sayed-said93/Data-Analysis-Projects/tree/main/SQL%20Projects)
+
+### 4. Python Data Analysis Projects
+
+A collection of Python-based data analysis notebooks covering sales data exploration and housing data analysis.
+
+**Projects:**
+- Diwali Sales Data Analysis
+- Madrid Housing Data Analysis
+
+🔗 [Explore All Python Projects](https://github.com/Sayed-said93/Data-Analysis-Projects/tree/main/python%20project)
 
 ---
 
