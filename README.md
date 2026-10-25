@@ -57,10 +57,6 @@ Oct 2024 – Jan 2026
 
 ## 📂 Projects
 
-My project portfolio is currently being organized and updated.
-
-Upcoming additions include:
-
 ### 1. Customer Personality Analysis | Power BI & SQL
 
 Customer segmentation, purchasing behavior, marketing campaign analysis, and interactive Power BI dashboards.
