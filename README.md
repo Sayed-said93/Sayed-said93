@@ -60,6 +60,7 @@ Oct 2024 – Jan 2026
 My project portfolio is currently being organized and updated.
 
 Upcoming additions include:
+- [Customer Personality Analysis — Power BI & SQL](https://github.com/Sayed-said93/customer-personality-analysis-powerbi-sql) — Customer segmentation, purchasing behavior, and marketing campaign analytics.
 - Power BI Analytics Dashboards
 - SQL & Data Analysis Projects
 - Python Data Analysis Projects
